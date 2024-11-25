@@ -44,13 +44,17 @@ Este proyecto utiliza las siguientes tecnologías:
 
 ### Requisitos Previos
 
-1. Clonar este repositorio
+1. Descargar el dataset del siguiente enlace
+
+https://drive.google.com/file/d/1AWGcwWxYTH1D7jnGWEt2NHQrr-tkqrKa/view?usp=drive_link
+
+2. Clonar este repositorio
 
 ```
 git clone <GITHUB_REPO_URL>
 ```
 
-2. Abra el archivo notebook ** *.ipynb** en Anaconda.
+3. Abra el archivo notebook ** *.ipynb** en Anaconda.
 
 ## Declaración del problema
 
